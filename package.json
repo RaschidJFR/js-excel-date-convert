@@ -1,6 +1,6 @@
 {
   "name": "js-excel-date-convert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert dates between JS and Excel formats",
   "main": "js-excel-date-convert.js",
   "scripts": {
